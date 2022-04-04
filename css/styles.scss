@@ -64,7 +64,20 @@ body {
     }
   }
 }
-
+.modal {
+  .modal-header {
+    background-color: #512da8;
+  }
+  .modal-title {
+    color: white;
+  }
+  .modal-body {
+    background-color: #d1c4e9;
+  }
+  .close {
+    color: white;
+  }
+}
 #carouselButton {
   right: 0px;
   position: absolute;
